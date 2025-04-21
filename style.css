@@ -780,6 +780,8 @@ font-size: 18px;
         justify-content:left;
         flex-direction: column;
     }
+    .footer-logo{
+        display: flex;}
     .form-right{
         margin-top: 3%;
     }
